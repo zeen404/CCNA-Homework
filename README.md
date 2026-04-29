@@ -17,15 +17,15 @@ This repository contains Packet Tracer lab files (.pka) for CCNA 200-301 prepara
 - [x] LAB-X12 Per-VLAN STP_.pka
 - [x] LAB-X13 Rapid Per-VLAN STP_.pka
 - [x] LAB-X14 L2 Loop Test_.pka
-- [ ] LAB-X15 L2 EtherChannel_.pka
-- [ ] LAB-X15 L2 EtherChannel_Test_F01.pka
-- [ ] LAB-X16 Port-Security_.pka
-- [ ] LAB-X17 HDLC and PPP_.pka
-- [ ] LAB-X18 PPP PAP_.pka
-- [ ] LAB-X19 PPP CHAP_.pka
-- [ ] LAB-X20 Static Route and Default Route_.pka
-- [ ] LAB-X21 OSPF Single Area_.pka
-- [ ] LAB-X22 OSPF Multi-Area_.pka
+- [x] LAB-X15 L2 EtherChannel_.pka
+- [x] LAB-X15 L2 EtherChannel_Test_F01.pka
+- [x] LAB-X16 Port-Security_.pka
+- [x] LAB-X17 HDLC and PPP_.pka
+- [x] LAB-X18 PPP PAP_.pka
+- [x] LAB-X19 PPP CHAP_.pka
+- [x] LAB-X20 Static Route and Default Route_.pka
+- [x] LAB-X21 OSPF Single Area_.pka
+- [x] LAB-X22 OSPF Multi-Area_.pka
 - [ ] LAB-X23 OSPF Summarization_.pka
 - [ ] LAB-X24 OSPF Default-information Originate_.pka
 - [ ] LAB-X25 OSPF Authentication_.pka
